@@ -85,10 +85,10 @@ const channelInfo = [{
 },
 {
     id: 13,
-    name: 'SkySports Golf',
-    img: 'https://res.cloudinary.com/djecqwc0z/image/upload/v1694660323/sky-sports-golf_nnwxlo.jpg',
-    url: '/skysports-golf',
-    iframe: '<iframe src="//stream.crichd.vip/update/skys4.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>'
+    name: 'Super Sports Football',
+    img: 'https://seeklogo.com/images/S/supersports-logo-47DDE224E5-seeklogo.com.png',
+    url: '/supersport-football',
+    iframe: '<iframe src="//stream.crichd.vip/update/ssfotbal.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>'
 },
 {
     id: 14,
