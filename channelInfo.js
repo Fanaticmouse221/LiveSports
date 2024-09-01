@@ -100,7 +100,7 @@ const channelInfo = [{
 {
     id: 15,
     name: 'SkySports Golf',
-    img: 'https://res.cloudinary.com/djecqwc0z/image/upload/v1694660323/sky-sports-golf_nnwxlo.jpg',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvhNBrL4mp7ARX9jOZroY6ipdfX_-USm0dQ&shttps://seeklogo.com/images/S/supersports-logo-47DDE224E5-seeklogo.com.png',
     url: '/skysports-golf',
     iframe: '<iframe src="//stream.crichd.vip/update/skys4.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>'
 }]
