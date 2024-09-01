@@ -78,10 +78,10 @@ const channelInfo = [{
 },
 {
     id: 12,
-    name: 'SkySports Action',
-    img: 'https://res.cloudinary.com/djecqwc0z/image/upload/v1694660322/sky-sports-action_selhly.png',
-    url: '/skysports-action',
-    iframe: '<iframe src="//stream.crichd.vip/update/skys3.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>'
+    name: 'LaLiga',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/360px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png',
+    url: '/laliga',
+    iframe: '<iframe src="//stream.crichd.vip/update/laligauk.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>'
 },
 {
     id: 13,
