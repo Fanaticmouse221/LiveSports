@@ -86,7 +86,7 @@ const channelInfo = [{
 {
     id: 13,
     name: 'Super Sports Football',
-    img: 'https://res.cloudinary.com/djecqwc0z/image/upload/v1694660323/sky-sports-golf_nnwxlo.jpg',
+    img: 'https://seeklogo.com/images/S/supersports-logo-47DDE224E5-seeklogo.com.png',
     url: '/supersport-football',
     iframe: '<iframe src="//stream.crichd.vip/update/ssfotbal.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>'
 },
@@ -96,13 +96,6 @@ const channelInfo = [{
     img: 'https://res.cloudinary.com/djecqwc0z/image/upload/v1694660322/sky-sports-pl_bbzqrl.png',
     url: '/skysports-premier-league',
     iframe: '<iframe src="//stream.crichd.vip/update/skys5.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>'
-},
-{
-    id: 15,
-    name: 'SkySports Golf',
-    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvhNBrL4mp7ARX9jOZroY6ipdfX_-USm0dQ&shttps://seeklogo.com/images/S/supersports-logo-47DDE224E5-seeklogo.com.png',
-    url: '/skysports-golf',
-    iframe: '<iframe src="//stream.crichd.vip/update/skys4.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>'
 }]
 
 export default channelInfo
